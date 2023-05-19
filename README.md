@@ -7,8 +7,8 @@
 </h1>
 
 <p>Raihan, student, interested in:  </p>
-<p>- Backend with Node.js, PHP, and a little bit of Golang</p>
-<p>- Frontend with Next, Nuxt, and React Native</p>
+<p>- Backend with Node.js, PHP, and Golang</p>
+<p>- Frontend with Next, Nuxt, React Native, Kotlin</p>
 
 ## ✨ _My Stats_ ✨
 
