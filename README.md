@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>Raihan, student, interested in:  </p>
-<p>- Backend with Node.js, PHP, and Golang</p>
-<p>- Frontend with Next, Nuxt, React Native, Kotlin</p>
+<p>Raihan, interested in:  </p>
+<p>- Backend with Golang, Node.js, and PHP</p>
+<p>- Frontend with Angular, Next, Nuxt, React Native, Kotlin</p>
 
 ## ✨ _My Stats_ ✨
 
